@@ -9,3 +9,5 @@ push 6 38f63af0-2126-4f19-b554-691417c65e0c 2026-07-10T15:41:20Z
 ## Joke
 
 Why do programmers prefer dark mode? Because light attracts bugs.
+
+How many programmers does it take to change a light bulb? None, that's a hardware problem.
