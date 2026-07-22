@@ -12,5 +12,6 @@ Why did the developer go broke? Because they used up all their cache.
 How many programmers does it take to change a light bulb? None, that's a hardware problem.
 There are only 10 types of people in the world: those who understand binary and those who don't.
 A SQL query walks into a bar, walks up to two tables and asks: "Can I join you?"
+Why do Java developers wear glasses? Because they don't C#.
 
 <!-- multi-session squash demo 20260716T212506Z -->
